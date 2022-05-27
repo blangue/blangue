@@ -2,17 +2,13 @@
 ## Engineer Student 🇫🇷
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blangue&show_icons=true&count_private=true&theme=radical"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blangue&exclude_repo=blangue&count_private=true&layout=compact&theme=monokai"/>
 </p>
 
 <p align="center">
-  Find me on other platforms : <br/>
-  <ul style="display: table; margin: 0 auto;">
-    <li> <a href="https://www.bastien.pw"> My online portfolio </a> </li>
-    <li> <a href="https://www.linkedin.com/in/bastien-langue/"> My LinkedIn </a> </li>
-  </ul>
+  <img src="https://github-readme-stats.vercel.app/api?username=blangue&show_icons=true&count_private=true&theme=radical"/>
 </p>
+
+## Find me on other platforms :
+* <a href="https://www.bastien.pw" style=""> <b>My online portfolio</b> </a>
+* <a href="https://www.linkedin.com/in/bastien-langue/"> <b>My LinkedIn </b></a>
