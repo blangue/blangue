@@ -11,7 +11,7 @@
 
 <p align="center">
   Find me on other platforms : <br/>
-  <ul>
+  <ul style="display: table; margin: 0 auto;">
     <li> <a href="https://www.bastien.pw"> My online portfolio </a> </li>
     <li> <a href="https://www.linkedin.com/in/bastien-langue/"> My LinkedIn </a> </li>
   </ul>
